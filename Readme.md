@@ -41,4 +41,4 @@ Control Android Device from PC
   * make install ( or sudo make install )
 
 
-#### [Preview](https://www.pling.com/p/1303786/)
+#### [Preview](https://www.pling.com/p/1305829/)
